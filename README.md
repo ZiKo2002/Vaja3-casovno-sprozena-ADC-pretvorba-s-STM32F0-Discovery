@@ -1,0 +1,1 @@
+# Vaja3-casovno-sprozena-ADC-pretvorba-s-STM32F0-Discovery
